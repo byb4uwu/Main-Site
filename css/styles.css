@@ -1,0 +1,102 @@
+body {
+  text-align: left;
+  font-family: 'Varela Round', sans-serif;
+  margin: 0;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Lacquer', sans-serif;
+  margin: 0;
+  position: relative;
+  padding-top: 15px;
+  color: white;
+
+
+}
+.BB-letsgo {
+  display: block;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 25%;
+}
+h2 {
+  font-family: Varela Round, sans-serif;
+  padding: 10px 0 0 15px;
+  margin: 0;
+}
+
+h3 {
+  color: white;
+  margin: 0 0 0 15px;
+  text-align: left;
+  display: inline-block;
+  font-family: 'Varela Round', sans-serif;
+}
+.main-title {
+  text-decoration: none;
+}
+
+p {
+  display: inline-block;
+  margin: 10px 0 0 15px;
+  font-family: 'Varela Round', cursive;
+}
+
+
+.top {
+  background-color: #032d3c;
+  height: 75px;
+  width: 100%;
+  text-align: right;
+  color: white;
+}
+
+.yahoo-link {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.contact-me {
+  position: absolute;
+  right: 75px;
+  top: 10px;
+}
+
+
+.menu {
+  background-color: #26baee;
+  height: 30px;
+  padding-top: 5px;
+  text-align: center;
+
+}
+
+.info-main {
+  background-color: #00818a;
+  margin: 0;
+  padding: 10px 0 0 15px
+
+}
+
+.info {
+  background-color: white;
+  padding: 10px 0 0 15px;
+}
+
+.standings {
+  background-color: white;
+  margin: 0;
+  padding: 10px 0 0 15px;
+}
+
+.contact-form {
+  padding: 10px 0 0 15px;
+}
+
+.settings-form {
+  text-align: left;
+}
