@@ -26,6 +26,7 @@ h2 {
   font-family: Varela Round, sans-serif;
   padding: 10px 0 0 15px;
   margin: 0;
+
 }
 
 h3 {
@@ -34,6 +35,7 @@ h3 {
   text-align: left;
   display: inline-block;
   font-family: 'Varela Round', sans-serif;
+
 }
 .main-title {
   text-decoration: none;
@@ -76,7 +78,7 @@ p {
 }
 
 .info-main {
-  background-color: #00818a;
+  background-color: #e6e6e6;
   margin: 0;
   padding: 10px 0 0 15px
 
