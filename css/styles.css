@@ -37,6 +37,12 @@ h3 {
   font-family: 'Varela Round', sans-serif;
 
 }
+h4 {
+  font-family: Varela Round, sans-serif;
+  padding: 10px 0 0 15px;
+  margin: 0;
+
+}
 .main-title {
   text-decoration: none;
 }
