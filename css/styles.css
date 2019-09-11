@@ -86,19 +86,19 @@ p {
 .info-main {
   background-color: #e6e6e6;
   margin: 0;
-  padding: 10px 0 0 15px
+  padding: 10px 125px 0 125px
 
 }
 
 .info {
   background-color: white;
-  padding: 10px 0 0 15px;
+  padding: 10px 125px 0 125px;
 }
 
 .standings {
   background-color: white;
   margin: 0;
-  padding: 10px 0 0 15px;
+  padding: 10px 125px 0 125px;
 }
 
 .contact-form {
@@ -107,4 +107,10 @@ p {
 
 .settings-form {
   text-align: left;
+}
+
+.bold-strategy-gif {
+  display: block;
+margin: 10px auto 10px auto;
+width: 30%;
 }
