@@ -131,3 +131,9 @@ figcaption {
   text-align: center;
 
 }
+
+.space-jam-img {
+  display: block;
+  margin: 10px auto 10px auto;
+  width: 30%;
+}
